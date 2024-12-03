@@ -1,0 +1,57 @@
+
+    header{
+        background-color: gold;
+        height:60px;
+        width:95%;
+        padding: 10px;
+        margin:10px;
+        text-decoration: dashed;
+
+        text-align: center;
+     
+        
+    }
+    h2{
+        color: maroon;
+        text-decoration: dashed;
+        text-align: center;
+        
+    }
+img{
+    float: right;
+}
+a{
+    display: inline-flex;
+}
+td{
+    width: 500px ;
+    text-align: center;
+    border-color: gold;
+   
+
+}
+.a{
+    background-color: lightyellow;
+    text-decoration: dashed;
+    color: maroon;
+   
+}
+.b{
+    color: maroon;
+    background-color:lightsteelblue;
+}
+body{
+    background-color: lightyellow;
+}
+h4{
+
+    text-decoration: dashed;
+    color: maroon;
+    display:inline-flex;
+    padding-bottom: 1px;
+   
+}
+.bt{
+    text-align: center;
+    color: maroon;
+}
